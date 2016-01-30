@@ -1,6 +1,6 @@
 var config = {};
 
-config.homehost = 'ip_address_or_host_name';
+config.homehost = 'morkfamily.synology.me';
 config.homeport = 1234;
 
 module.exports = config;
